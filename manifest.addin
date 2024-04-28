@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Command">
+
+
+		<Name>WallTypesDisplayer</Name>
+
+		<Assembly>WallTypesDisplayer.dll</Assembly>
+
+		<AddInId>2DAE2DA3-795D-47EF-9835-88702D5A9210</AddInId>
+
+		<FullClassName>WallTypesDisplayer.ExternalCommand</FullClassName>
+
+		<Text>Wall Types Displayer</Text>
+
+		<Description>Displays wall types</Description>
+
+		<VendorId>Youssef</VendorId>
+
+		<VendorDescription>Youssef developper</VendorDescription>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,176 @@
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\WallTypesDisplayer.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\WallTypesDisplayer.pdb
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitAPIUI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\AdpSDKCSharpWrapper.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\AdskRcManaged.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitAPIFoundation.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitDBCoreAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\PersistenceDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\UtilityAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\APIDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\GraphicsAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\ElementGroupDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\EssentialsDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\GeomUtilAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\FamilyDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\DetailDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\CurtainGridFamilyDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\ArrayElemsDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\EnergyAnalysisDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\BuildingSystemsDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\HostObjDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RoomAreaPlanDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\SiteDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\SculptingDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\StructuralDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\InterfaceAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\InterfaceUtilAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RebarDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\StructuralAnalysisDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\MassingDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\AssemblyDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\DPartDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\NumberingDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\PointCloudAccessAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\StairRampDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\AnalysisAppsDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\MaterialDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\IntfATFAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\TextEngineAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\DBManagedServices.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\AdWindows.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitAddInUtility.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\APIInterop.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\UIFramework.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\AddInManager.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitUIAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\BuildingSystemsUIAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\DesktopMFCAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\APIUIAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitMFCAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\EssentialsUIAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\DetailUIAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\UIFrameworkServices.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\Autodesk.UI.Windows.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\Autodesk.UI.Themes.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\CompositionServices.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitAPI.xml
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitAPIUI.xml
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\RevitAddInUtility.xml
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\cs-CZ\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\de-DE\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\en-GB\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\en-US\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\es-ES\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\fr-FR\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\it-IT\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\ja-JP\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\ko-KR\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\pl-PL\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\pt-BR\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\ru-RU\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\zh-CN\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\zh-TW\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.csproj.AssemblyReference.cache
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.csproj.CoreCompileInputs.cache
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.csproj.CopyComplete
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.pdb
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\bin\Debug\manifest.addin
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\obj\Debug\WallTypesDisplayer_MarkupCompile.cache
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\obj\Debug\WallTypesDisplayer_MarkupCompile.lref
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.g.resources
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\obj\Debug\ProjectView\MainWindow.g.cs
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\Article 4 - MVVM Pattern for Revit part 2\WallTypesDisplayer\obj\Debug\ProjectView\MainWindow.baml
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\manifest.addin
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\WallTypesDisplayer.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\WallTypesDisplayer.pdb
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitAPIUI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\AdpSDKCSharpWrapper.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\AdskRcManaged.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitAPIFoundation.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitDBCoreAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\PersistenceDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\UtilityAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\APIDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\GraphicsAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\ElementGroupDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\EssentialsDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\GeomUtilAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\FamilyDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\DetailDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\CurtainGridFamilyDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\ArrayElemsDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\EnergyAnalysisDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\BuildingSystemsDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\HostObjDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RoomAreaPlanDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\SiteDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\SculptingDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\StructuralDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\InterfaceAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\InterfaceUtilAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RebarDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\StructuralAnalysisDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\MassingDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\AssemblyDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\DPartDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\NumberingDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\PointCloudAccessAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\StairRampDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\AnalysisAppsDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\MaterialDBAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\IntfATFAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\TextEngineAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\DBManagedServices.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\AdWindows.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitAddInUtility.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\APIInterop.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\UIFramework.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\AddInManager.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitUIAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\BuildingSystemsUIAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\DesktopMFCAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\APIUIAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitMFCAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\EssentialsUIAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\DetailUIAPI.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\UIFrameworkServices.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\Autodesk.UI.Windows.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\Autodesk.UI.Themes.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\CompositionServices.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitAPI.xml
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitAPIUI.xml
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\RevitAddInUtility.xml
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\cs-CZ\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\de-DE\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\en-GB\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\en-US\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\es-ES\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\fr-FR\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\it-IT\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\ja-JP\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\ko-KR\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\pl-PL\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\pt-BR\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\ru-RU\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\zh-CN\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\bin\Debug\zh-TW\AdWindows.resources.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.csproj.AssemblyReference.cache
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\obj\Debug\ProjectView\MainWindow.g.cs
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\obj\Debug\WallTypesDisplayer_MarkupCompile.cache
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\obj\Debug\WallTypesDisplayer_MarkupCompile.lref
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\obj\Debug\ProjectView\MainWindow.baml
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.g.resources
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.csproj.CoreCompileInputs.cache
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.csproj.CopyComplete
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.dll
+I:\OneDrive - GROUPE INGITECH\50_BIM R&D\BLOG\1000_Code Source\Articles MVVM\WallTypesDisplayer\obj\Debug\WallTypesDisplayer.pdb
